@@ -1,6 +1,6 @@
 # This is my One Month Rails Project
 
 This is the sample application for
-[*One Month Rails: Teach Yourself to Code*]
+[*One Month Rails: Teach Yourself to Code*](http://onemonthrails.com)
 
-By Wilson JY Abraham
+By Jagger Kyne
