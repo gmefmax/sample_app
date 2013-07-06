@@ -1,9 +1,5 @@
 GEM
-<<<<<<< HEAD
   remote: http://rubygems.org/
-=======
-  remote: https://rubygems.org/
->>>>>>> static-pages
   specs:
     actionmailer (3.2.13)
       actionpack (= 3.2.13)
